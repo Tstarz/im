@@ -1,0 +1,5 @@
+"Client Name (Last,First Md)",Address,City,State,Zip,Home Phone Number,Mobile Phone Number,COB,DOB,Date of Consult,Contact if CIR,Contact if TPS,NonEngagement Letter,Hired?,Source,Email,Alien Number
+"Chavez, Cesar",100 Main Street,Los Angelas,CA,90012,,555-555-5555,Mexico,"February 19, 1939","June 24, 2013",Y,N,N,N,"Hayden, Thomas",,
+"Stallone, Sylvestor",200 Broadway,Philadelphia,PA,19019,,222-222-2222,Italy,"November 3, 1946","August 6, 2013",Y,N,Y,N,"Meredith, Burgess",,
+"Kai-Shek, Chang",100 Canal Street,New York,NY,10002,111-111-8888,111-111-2222,China,"May 13, 1895","May 13, 2013",Y,N,Y,N,Immigration Service,shekzz@gmail.com,999 999 999
+"Peron, Juan",100 Main Street,Houston,TX,77002,777-777-7777,777-777-9999,Argentina,"July 28, 1895","August 2, 2013",Y,Y,Y,N,Immigration Service,,088 240 969
